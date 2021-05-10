@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm MWindows99</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
+<h3 align="center">A frontend developer from Japan</h3>
 
 - 🌱 I’m currently learning **Python Script**
 
