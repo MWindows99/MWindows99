@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 <h3 align="left">Languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwindows99&show_icons=true&title_color=e22400&text_color=ff8000&bg_color=76bb40&locale=en&layout=compact" alt="mwindows99" /></p>
 
-
+<br>
 <h3 align="left">Status:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwindows99&show_icons=true&title_color=00ff00&text_color=fdc700&bg_color=3a87fe&locale=en" alt="mwindows99" /></p>
