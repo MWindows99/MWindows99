@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **Twitter@MWindows99**
 
 <h3 align="center">Please visit my website! Updates every day.</h3>
-<h4 align="center"> <a href="https://mwindows99.work">Click Here!</a></h4>
+<h4 align="center"> <a href="https://mwindows99.com">Click Here!</a></h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mwindows99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="mwindows99" height="30" width="40" /></a>
