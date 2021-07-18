@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Twitter@MWindows99**
 
-<h3 align="center">Please visit my website! Updates every day.</h3>
+<h3 align="center">Please visit my website!</h3>
 <h4 align="center"> <a href="https://mwindows99.com">Click Here!</a></h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
