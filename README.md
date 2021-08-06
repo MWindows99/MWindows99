@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h4 align="center"> <a href="https://mwindows99.com">Click Here!</a></h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mwindows99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="mwindows99" height="30" width="40" /></a>
+<a href="https://twitter.com/mwindows99" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80945906/128546490-01a40ea3-3e30-4a0e-a36c-aac3a603d27d.png" alt="mwindows99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tools:</h3>
