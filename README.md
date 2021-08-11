@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Please visit my website!</h3>
 <h4 align="center"> <a href="https://mwindows99.com">Click Here!</a></h4>
+<h3 align="center">About me</h3>
+<h4 align="center"> <a href="https://mwindows99.com/about">Click Here!</a></h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mwindows99" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80945906/128546490-01a40ea3-3e30-4a0e-a36c-aac3a603d27d.png" alt="mwindows99" height="40" width="40" /></a>
