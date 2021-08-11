@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--FontAwesome-->
+<link rel="stylesheet" href="https://mwindows99.com/fontawesome/css/all.css">
+
 <h1 align="center">Hi 👋, I'm MWindows99</h1>
 <h3 align="center">A beginner developer from Japan</h3>
 
