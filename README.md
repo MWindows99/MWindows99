@@ -29,21 +29,21 @@ Here are some ideas to get you started:
 <h4 align="center"> <a href="https://mwindows99.com">Click Here!</a></h4>
 <h3 align="center">About me</h3>
 <h4 align="center"> <a href="https://mwindows99.com/about">Click Here!</a></h4>
-<h3 align="left">I'm a member of:</h3>
+<h3 align="left"><i class="far fa-building"></i>I'm a member of:</h3>
 
  - <a href="https://twitter.com/TGRGroup_PR">TGR Group</a>
 
  - <a href="https://twitter.com/escgroup_">Escape Group</a>
  
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><i class="far fa-paper-plane"></i>Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mwindows99" target="blank"><img align="center" src="https://user-images.githubusercontent.com/80945906/128546490-01a40ea3-3e30-4a0e-a36c-aac3a603d27d.png" alt="mwindows99" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left"><i class="fas fa-tools"></i>Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left"><i class="fas fa-code"></i>Languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwindows99&show_icons=true&title_color=e22400&text_color=ff8000&bg_color=76bb40&locale=en&layout=compact" alt="mwindows99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwindows99&show_icons=true&title_color=00ff00&text_color=fdc700&bg_color=3a87fe&locale=en" alt="mwindows99" /></p>
