@@ -15,7 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="left"> 
+  <a href="https://github.com/MWindows99/MWindows99">
+    <img src="https://komarev.com/ghpvc/?username=MWindows99" alt="MWindows99" />
+  </a>
+  <a href="http://twitter.com/MWindows99">
+    <img height="20" src="https://img.shields.io/twitter/follow/MWindows99?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/MWindows99">
+    <img height="20" src="https://img.shields.io/github/followers/MWindows99?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/MWindows99">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/MWindows99/posts.svg" />
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm MWindows99</h1>
 <h3 align="center">A beginner developer from Japan</h3>
 
