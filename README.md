@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> Welcome! </h1>
-<p align="left"> 
+<!-- Insights -->
+<p align="center"> 
   <a href="https://github.com/MWindows99/MWindows99">
     <img src="https://komarev.com/ghpvc/?username=MWindows99" alt="MWindows99" />
   </a>
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/MWindows99/posts.svg" />
   </a>
 </p>
+<!-- Main -->
 <h1 align="center">Hi 👋, I'm MWindows99</h1>
 <h3 align="center">A beginner developer from Japan</h3>
 
