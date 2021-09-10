@@ -62,6 +62,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwindows99&show_icons=true&locale=en" alt="mwindows99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwindows99&" alt="mwindows99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwindows99&show_icons=true&title_color=00ff00&text_color=fdc700&bg_color=3a87fe&locale=en" alt="mwindows99" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mwindows99&" alt="mwindows99" /></p>
