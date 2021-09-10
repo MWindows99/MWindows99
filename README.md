@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center"> Welcome! </h1>
 <p align="left"> 
   <a href="https://github.com/MWindows99/MWindows99">
     <img src="https://komarev.com/ghpvc/?username=MWindows99" alt="MWindows99" />
