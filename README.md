@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> Welcome! </h1>
+
+<p align="center">Thank you for visiting my profile.</p>
+
 <!-- Insights -->
 <p align="center"> 
   <a href="https://github.com/MWindows99/MWindows99">
