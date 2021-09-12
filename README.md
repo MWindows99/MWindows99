@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Twitter@MWindows99**
 
-<h3 align="center">Please visit my website!</h3>
-<h4 align="center"> <a href="https://mwindows99.com">Click Here!</a></h4>
-<h3 align="center">About me</h3>
-<h4 align="center"> <a href="https://mwindows99.com/about">Click Here!</a></h4>
+<h3 align="left">My website:</h3>
+<h4 align="left"> <a href="https://mwindows99.com">Click Here!</a></h4>
+<h3 align="left">About me</h3>
+<h4 align="left"> <a href="https://mwindows99.com/about">Click Here!</a></h4>
 <h3 align="left">I'm a member of:</h3>
 
  - <a href="https://twitter.com/TGRGroup_PR">TGR Group</a>
