@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm MWindows99</h1>
 <h3 align="center">A beginner developer from Japan</h3>
 
-- 🌱 I’m currently learning **Python Script**
+- 🌱 I’m currently learning **Python** and **C#**
 
 - 📫 How to reach me **Twitter@MWindows99**
 
